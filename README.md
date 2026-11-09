@@ -52,11 +52,11 @@ Y algo que aprendí en el camino: la barrera casi nunca es técnica, es el miedo
 
 ## Con lo que trabajo
 
-**Lenguajes** TypeScript, JavaScript, Python, Swift, SQL
-**Producto** Next.js, React, Tailwind, Node.js, FastAPI
-**Datos y nube** Supabase, PostgreSQL, AWS (CDK, ECS, Lambda, S3, SQS, Bedrock), Cloudflare, Docker
-**IA y automatización** agentes, voz en tiempo real, RAG, Claude, OpenAI, Gemini, n8n
-**Cómo trabajo** desarrollo asistido por IA todos los días, SDD y TDD, Pull Requests, CI y Scrum
+- **Lenguajes:** TypeScript, JavaScript, Python, Swift, SQL
+- **Producto:** Next.js, React, Tailwind, Node.js, FastAPI
+- **Datos y nube:** Supabase, PostgreSQL, AWS (CDK, ECS, Lambda, S3, SQS, Bedrock), Cloudflare, Docker
+- **IA y automatización:** agentes, voz en tiempo real, RAG, Claude, OpenAI, Gemini, n8n
+- **Cómo trabajo:** desarrollo asistido por IA todos los días, SDD y TDD, Pull Requests, CI y Scrum
 
 <sub>Fuera del código: videojuegos (God of War, Uncharted, The Last of Us, Spider-Man, Devil May Cry) y emprender. Una partida más y vuelvo.</sub>
 
